@@ -11,5 +11,5 @@ Hệ thống cho phép người dùng đăng nhập với một trong hai vai tr
 -	Quản lý điểm: các chức năng tương tự như ở phần quản lý hồ sơ, dữ liệu là điểm số của học sinh được cập nhật và lưu trữ ở file “Diem.txt”.
 Đối với học sinh, yêu cầu nhập số điện thoại đã được đăng ký. Tất cả số điện thoại của học sinh được lưu ở file "HocSinh.txt".
 Các chức năng của học sinh: xem thông tin cá nhân và điểm số mà giáo viên đã cập nhật.
-Ngôn ngữ cài đặt: C và C++.
+Ngôn ngữ cài đặt: C++.
 Chương trình nhằm mang lại hiệu quả trong hỗ trợ quản lý thông tin học sinh, thay thế quá trình quản lý thủ công.
